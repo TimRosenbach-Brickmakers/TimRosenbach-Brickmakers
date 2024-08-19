@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tim</h1>
+<h1 align="center">Servus 👋🍺, ich bin Tim</h1>
 <h3 align="center">I'm currently training to become a software developer</h3>
 
 - 🌱 I’m currently learning **C#**
